@@ -2252,11 +2252,11 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
-	padding-bottom: 7.2rem;
+	padding-top: 5rem;
+	padding-bottom: 0rem;
 }
 .contact-heading{
-	margin-bottom: 20rem;
+	margin-bottom: 18rem;
 	
 }
 
